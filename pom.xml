@@ -17,7 +17,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <hadoop.version>2.6.0-cdh5.12.2</hadoop.version>
-    <hive.version>1.1.0-cdh5.12.2</hive.version>
+    <hive.version>2.3.4</hive.version>
     <flume.version>1.6.0-cdh5.12.2</flume.version>
 
     <scala.version>2.11.8</scala.version>
